@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[22016,["/AToZDermatologyDemoSite/_next/static/chunks/3zjsxf0yaxvfu.js","/AToZDermatologyDemoSite/_next/static/chunks/427abag-rkhpx.js","/AToZDermatologyDemoSite/_next/static/chunks/0air9zxlelnr-.js"],""]
+3:I[5014,["/AToZDermatologyDemoSite/_next/static/chunks/3zjsxf0yaxvfu.js","/AToZDermatologyDemoSite/_next/static/chunks/427abag-rkhpx.js","/AToZDermatologyDemoSite/_next/static/chunks/0air9zxlelnr-.js"],"default"]
+4:I[97367,["/AToZDermatologyDemoSite/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/AToZDermatologyDemoSite/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+a:I[97367,["/AToZDermatologyDemoSite/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+b:I[27201,["/AToZDermatologyDemoSite/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+d:I[39756,["/AToZDermatologyDemoSite/_next/static/chunks/3fntmmi971322.js"],"default"]
+e:I[37457,["/AToZDermatologyDemoSite/_next/static/chunks/3fntmmi971322.js"],"default"]
+8:X
+10:X
+10:C
+0:{"buildId":"c5v1XgXTv0SWvRKJHDCQq","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"wrap inner-page detail","children":[["$","$L2",null,{"className":"back","href":"/en/providers","children":[["$","$L3",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"size":18}],"All providers"]}],["$","div",null,{"className":"provider-detail","children":[["$","div",null,{"className":"provider-graphic large","children":["$","span",null,{"children":"MA"}]}],["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"Listed clinician"}],["$","h1",null,{"children":"Michael Abril, PA"}],["$","p",null,{"className":"intro","children":"Michael Abril, PA is listed on A to Z Dermatology’s public provider directory. Contact the clinic for current specialties, office assignments, and availability."}],["$","p",null,{"className":"medical-note","children":"This demo does not assign offices, specialties, or schedules without confirmation."}],["$","$L2",null,{"className":"button","href":"/en/appointment","children":["Appointment options"," ",["$","$L3",null,{"icon":{"name":"arrow-up-right","size":24,"node":[["path",{"d":"M7 7h10v10","key":"1tivn9"}],["path",{"d":"M7 17 17 7","key":"1vkiza"}]]},"size":17}]]}]]}]]}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"A to Z Dermatology | Arizona dermatology care"}],["$","meta","1",{"name":"description","content":"Explore medical, surgical, and cosmetic dermatology, providers, insurance, and six Arizona offices."}],["$","link","2",{"rel":"icon","href":"/AToZDermatologyDemoSite/atoz-favicon.webp"}],["$","$Lb","3",{}]]}]}]}],null]}],"isPartial":"$@c","staleTime":"$8","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}]}]]}],"isPartial":"$@f","staleTime":"$8","varyParams":"$10"},{"rsc":["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}]}]]}],"isPartial":"$@11","staleTime":"$8","varyParams":"$10"}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+6:null
+13:true
+8:300
+8:C
+12:0
+c:"$undefined"
+f:"$undefined"
+11:"$undefined"
+7:"$undefined"

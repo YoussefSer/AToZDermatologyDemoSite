@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[97367,["/AToZDermatologyDemoSite/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/AToZDermatologyDemoSite/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+8:I[97367,["/AToZDermatologyDemoSite/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+9:I[27201,["/AToZDermatologyDemoSite/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+b:I[39756,["/AToZDermatologyDemoSite/_next/static/chunks/3fntmmi971322.js"],"default"]
+c:I[37457,["/AToZDermatologyDemoSite/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:X
+e:X
+e:C
+0:{"buildId":"c5v1XgXTv0SWvRKJHDCQq","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"page-shell max-w-4xl py-14 md:py-24","children":[["$","p",null,{"className":"section-kicker","children":"MedVita"}],["$","h1",null,{"className":"display-heading mt-4 text-5xl md:text-7xl","children":"Terms and conditions"}],["$","p",null,{"className":"mt-8 max-w-2xl text-base leading-8 text-muted-foreground","children":"This sample policy is placeholder copy for the template. Replace it with clinic-approved legal text before publishing."}],["$","div",null,{"className":"mt-12 space-y-5 text-ink-soft","children":[["$","h2",null,{"className":"section-heading text-3xl","children":"Using this website"}],["$","p",null,{"className":"max-w-2xl leading-7","children":"This sample policy is placeholder copy for the template. Replace it with clinic-approved legal text before publishing."}],["$","h2",null,{"className":"section-heading pt-5 text-3xl","children":"General information"}],["$","p",null,{"className":"max-w-2xl leading-7","children":"This sample policy is placeholder copy for the template. Replace it with clinic-approved legal text before publishing."}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"A to Z Dermatology | Arizona dermatology care"}],["$","meta","1",{"name":"description","content":"Explore medical, surgical, and cosmetic dermatology, providers, insurance, and six Arizona offices."}],["$","link","2",{"rel":"icon","href":"/AToZDermatologyDemoSite/atoz-favicon.webp"}],["$","$L9","3",{}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$6","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+4:null
+10:true
+6:300
+6:C
+f:0
+a:"$undefined"
+d:"$undefined"
+5:"$undefined"
